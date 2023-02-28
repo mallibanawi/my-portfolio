@@ -122,15 +122,15 @@ h3 {
 .bottom-cloud {
 
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 25rem;
+    bottom: 18.75rem;
 }
 
 .top-cloud {
 
     position: absolute;
-    right: 400px;
-    top: 50px;
+    right: 25rem;
+    top: 3.125rem;
 }
 
 .mountain {
